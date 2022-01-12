@@ -10,7 +10,7 @@ Have assumed that the default path of NordPass.exe is located within AppData\Loc
 Execute RunOnStartup.vbs 
   
 ## WARNING ##
-I have added an automatic reboot command at the end to reset your machine and check to see if it works.
+I have added an automatic reboot command at the end to reset your machine and check to see if it works. If you don't want to execute this command, edit RunOnStartup in notepad and remove the last line.
   
 ## Uninstall ##
 To uninstall access Startup menu via 'Run shell:startup' and delete NordPassMasterPassword.vbs
