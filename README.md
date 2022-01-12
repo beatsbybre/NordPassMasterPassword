@@ -1,5 +1,5 @@
 # NordPassMasterPassword
-VBScript to Input Master Password into NordPass
+VBScript to Input Master Password into NordPass on Windows.
 
 Change <masterpassword> to your MasterPassword before execution.
   
