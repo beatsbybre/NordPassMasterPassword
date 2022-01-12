@@ -4,7 +4,7 @@ VBScript to Input Master Password into NordPass on Windows. This is assuming aut
 ## TO RUN ##
 Edit NordPassMasterPassword in notepad and change <masterpassword> to your "MasterPassword".
 
-Have assumed that the default path of NordPass.exe is located within AppData\Local\Programs\nordpass of C:\Users\Username. Have assigned a variable strUserName and called the %USERNAME% environment string to hopefully make the script run natively. 
+Have assumed that the default path of NordPass.exe is located within AppData\Local\Programs\nordpass of C:\Users\Username. Have assigned a variable strUserName and called the %USERNAME% environment string to hopefully make the script run natively. If the NordPass window isn't populating, hardcode the location of the exe.
 
 ## TO ADD TO STARTUP 
 Execute RunOnStartup.vbs 
